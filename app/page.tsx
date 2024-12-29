@@ -2,7 +2,7 @@ import AcmeLogo from '@/app/ui/acme-logo';
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import styles from '@/app/ui/hx-home.module.css';
-import { lusitana } from '@/app/ui/hx-fonts';
+import { lusitana } from '@/app/ui/fonts';
 import Image from 'next/image';
 // Homepage associated with the route /
 export default function Page() {
